@@ -1,7 +1,8 @@
 <!--suppress ALL -->
+<br/>
 <div align="center">
     <a href="https://bengkelti.com/kadita-docs">
-    <img width="200" src="https://github.com/Kastara-Digital-Technology/assets/raw/main/logo/dpLogo.png" alt=""></a>
+    <img width="200" src="https://github.com/Kastara-Digital-Technology/assets/raw/main/logo/V2/dpColorLogo.png" alt=""></a>
 
 [English](README.md) | [Bahasa Indonesia](README.ID.md)
 # Kadita DP
