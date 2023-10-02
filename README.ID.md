@@ -6,6 +6,13 @@
 <br/>
 
 [English](README.md) | [Bahasa Indonesia](README.ID.md)
+
+<div align="center">
+
+    Selamat Datang di KADITA DP: Framework Machine Learning 
+    untuk Data Analytics dan Data Science
+
+</div><br/>
 # Kadita DP
 A simplest code to create your .
 <br/>
